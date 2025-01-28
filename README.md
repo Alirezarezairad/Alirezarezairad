@@ -47,7 +47,7 @@ I'm currently diving deeper into advanced **TypeScript**, exploring **serverless
 ---  
 
 ### 📫 Where to Find Me:  
-- **GitHub**: [YourUsername](https://github.com/Alirezarezairad)  
+- **GitHub**: [Alirezarezairad](https://github.com/Alirezarezairad)  
 - **LinkedIn**: [Alireza Rezairad]  
 
 ---
