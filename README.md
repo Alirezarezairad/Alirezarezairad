@@ -42,7 +42,7 @@ When I'm not coding, you can find me exploring new tech, learning something fres
 <h2>Database:</h2> 
    <p>
        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-   </p>
+   </p> <img alt="gitHub Streak" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Alirezarezairad&theme=dark)](https://git.io/streak-stats)" />
 <h2>Tools and Platfoms:Cloudinary, Socket.io </h2>   
 <p>
    <img alt="gitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -57,7 +57,7 @@ When I'm not coding, you can find me exploring new tech, learning something fres
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Alirezarezairad&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 32%; min-width: 200px;"/>
- <img alt="gitHub Streak" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Alirezarezairad&theme=dark)](https://git.io/streak-stats)" />
+
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezarezairad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 32%; min-width: 200px;"/>
 </div>
 <hr />
