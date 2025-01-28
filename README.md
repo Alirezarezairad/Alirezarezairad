@@ -42,7 +42,7 @@ When I'm not coding, you can find me exploring new tech, learning something fres
 <h2>Database:</h2> 
    <p>
        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-   </p> <img alt="gitHub Streak" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Alirezarezairad&theme=dark)](https://git.io/streak-stats)" />
+   </p> 
 <h2>Tools and Platfoms:Cloudinary, Socket.io </h2>   
 <p>
    <img alt="gitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
