@@ -52,7 +52,16 @@ When I'm not coding, you can find me exploring new tech, learning something fres
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 <h2>Development and Management Methodologies:Scrum, MS-Project </h2> 
-  
+
+### 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alirezarezairad&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 32%; min-width: 200px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alirezarezairad&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 32%; min-width: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezarezairad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 32%; min-width: 200px;"/>
+</div>
+
+<hr />
 ### 📂 Open Source Projects:
 - 🎁 I'm working on some cool projects to showcase what I love to do. Stay tuned for:
 
