@@ -6,20 +6,32 @@
 - **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS, ShadCN UI, TypeScript, Zustand  
 - **Backend:** Node.js, Express  
 - **Database & Tools:** MongoDB, Cloudinary, Socket.io  
-
+- **Project Manegment:** Scrum, MS-Project
 ---  
 
 ## 🔥 About Me  
-Hi there! 👋 I'm a passionate developer with **1 year of hands-on experience** crafting modern, responsive, and dynamic web applications. I breathe life into ideas using clean code and scalable solutions. Programming is not just my job, it’s my **passion**!  
+Hi there! 👋 I'm a passionate developer with **1 year of hands-on experience** crafting modern, responsive, and dynamic web applications. I breathe life into ideas using clean code and scalable solutions. Programming is not just my job, it’s my **passion**! 
+
+Deutsch:
+Ich lebe seit 2015 in Deutschland und spreche fließend Deutsch, Persisch und Englisch. Durch meine Arbeit in Deutschland habe ich auch viel Erfahrung im direkten Kundenkontakt und in der Beratung in diversen Bereichen gesammelt.
+
+English:
+I have been living in Germany since 2015 and am fluent in German, Persian, and English. Through my work in Germany, I have also gained extensive experience in direct customer interaction and consulting across various fields.
 
 When I'm not coding, you can find me exploring new tech, learning something fresh, or debugging faster with a coffee in hand ☕.  
 
 ---  
 
-### 📂 Open Source Projects:  
-🎁 I'm working on some cool projects to showcase what I love to do. Stay tuned for:  
-- 🛠 **Real-time Chat App**: Powered by Socket.io, Node.js, and MongoDB.  
-- 🚀 **Portfolio Website**: Clean, responsive design with TailwindCSS & ShadCN UI.  
+### 📂 Open Source Projects:
+- 🎁 I'm working on some cool projects to showcase what I love to do. Stay tuned for:
+
+- 🛠 Real-time Chat App: Powered by Socket.io, Node.js, MongoDB, React, and javascript .
+- 🚀 Portfolio Website: Clean, responsive design with TailwindCSS & ShadCN UI.
+- 🌐 Facebook Clone (Backend & Frontend): Built with JavaScript, React, MERN stack, and TailwindCSS.
+- 💈 Men's Barber Shop: Developed with HTML and CSS.
+- 🐍 Snake Game: Created using JavaScript, HTML, and CSS.
+- 🎥 Hyper Movies: A project built with JavaScript, React, TailwindCSS.
+- 🎭 Face-Off: Designed with HTML and CSS.
 
 ---  
 
@@ -35,8 +47,8 @@ I'm currently diving deeper into advanced **TypeScript**, exploring **serverless
 ---  
 
 ### 📫 Where to Find Me:  
-- **GitHub**: [YourUsername](https://github.com/YourUsername)  
-- **LinkedIn**: [Alireza Rezairad](https://linkedin.com/in/YourLinkedIn)  
+- **GitHub**: [YourUsername](https://github.com/Alirezarezairad)  
+- **LinkedIn**: [Alireza Rezairad]  
 
 ---
 
@@ -91,8 +103,8 @@ const alireza = {
     },
   ],
   whereToFindMe: {
-    github: "https://github.com/YourUsername",
-    linkedin: "https://linkedin.com/in/YourLinkedIn",
+    github: "https://github.com/Alirezarezairad",
+    linkedin: "",
   },
   quote: `"Code is like humor. When you have to explain it, it’s bad." – Martin Fowler`,
 };
