@@ -60,6 +60,7 @@ When I'm not coding, you can find me exploring new tech, learning something fres
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezarezairad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 32%; min-width: 200px;"/>
 </div>
 <hr />
+
 ### 📂 Open Source Projects:
 - 🎁 I'm working on some cool projects to showcase what I love to do. Stay tuned for:
 
