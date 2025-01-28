@@ -39,10 +39,7 @@
    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
 <h2>Development and Management Methodologies:Scrum, MS-Project </h2> 
----  
-
-
-
+  
 ## 🔥 About Me  
 Hi there! 👋 I'm a passionate developer with **1 year of hands-on experience** crafting modern, responsive, and dynamic web applications. I breathe life into ideas using clean code and scalable solutions. Programming is not just my job, it’s my **passion**! 
 
