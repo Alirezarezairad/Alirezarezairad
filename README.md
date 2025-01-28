@@ -40,7 +40,8 @@ I'm currently diving deeper into advanced **TypeScript**, exploring **serverless
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Martin Fowler  
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Martin Fowler
+```javascript  
 // 🌟 Hey, I'm Alireza Rezairad!  
 
 const alireza = {
@@ -108,4 +109,4 @@ function sayHi() {
 }
 
 sayHi();
-
+```
