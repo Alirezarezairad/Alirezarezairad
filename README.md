@@ -9,7 +9,7 @@
    <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </p>
-<h2>Frontend:</h2> HTML5, CSS3, Sass, TailwindCSS, JavaScript, TypeScript, React, React Nativ, Vue.js, ShadCN UI, Zustand 
+<h2>Frontend:</h2>  ShadCN UI, Zustand 
   <p>
      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
      <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,16 +21,16 @@
      <img alt="react_native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
      <img alt="vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   </p>
-<h2>Backend:</h2> Node.js, Express
+<h2>Backend:</h2> 
    <p>
       <img alt="express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
       <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
    </p>
-<h2>Database:</h2> MongoDB 
+<h2>Database:</h2> 
    <p>
        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
    </p>
-<h2>Tools and Platfoms: </h2> git, GitHub, npm, Vite, Slack, Cloudinary, Socket.io  
+<h2>Tools and Platfoms: </h2> Cloudinary, Socket.io  
 <p>
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
    <img alt="gitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
