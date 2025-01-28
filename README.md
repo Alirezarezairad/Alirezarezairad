@@ -2,6 +2,19 @@
 
 ### 👨‍💻 Fullstack Developer | 28 y/o | Code Enthusiast  
 
+## 🔥 About Me  
+Hi there! 👋 I'm a passionate developer with **1 year of hands-on experience** crafting modern, responsive, and dynamic web applications. I breathe life into ideas using clean code and scalable solutions. Programming is not just my job, it’s my **passion**! 
+
+Deutsch:
+Ich lebe seit 2015 in Deutschland und spreche fließend Deutsch, Persisch und Englisch. Durch meine Arbeit in Deutschland habe ich auch viel Erfahrung im direkten Kundenkontakt und in der Beratung in diversen Bereichen gesammelt.
+
+English:
+I have been living in Germany since 2015 and am fluent in German, Persian, and English. Through my work in Germany, I have also gained extensive experience in direct customer interaction and consulting across various fields.
+
+When I'm not coding, you can find me exploring new tech, learning something fresh, or debugging faster with a coffee in hand ☕.  
+
+---  
+
 <h1> 💻 Tech Stack: </h1>
  <h2>Operatin Systems: </h2>
   <p>
@@ -40,19 +53,6 @@
 </p>
 <h2>Development and Management Methodologies:Scrum, MS-Project </h2> 
   
-## 🔥 About Me  
-Hi there! 👋 I'm a passionate developer with **1 year of hands-on experience** crafting modern, responsive, and dynamic web applications. I breathe life into ideas using clean code and scalable solutions. Programming is not just my job, it’s my **passion**! 
-
-Deutsch:
-Ich lebe seit 2015 in Deutschland und spreche fließend Deutsch, Persisch und Englisch. Durch meine Arbeit in Deutschland habe ich auch viel Erfahrung im direkten Kundenkontakt und in der Beratung in diversen Bereichen gesammelt.
-
-English:
-I have been living in Germany since 2015 and am fluent in German, Persian, and English. Through my work in Germany, I have also gained extensive experience in direct customer interaction and consulting across various fields.
-
-When I'm not coding, you can find me exploring new tech, learning something fresh, or debugging faster with a coffee in hand ☕.  
-
----  
-
 ### 📂 Open Source Projects:
 - 🎁 I'm working on some cool projects to showcase what I love to do. Stay tuned for:
 
