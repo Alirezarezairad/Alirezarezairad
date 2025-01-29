@@ -16,7 +16,7 @@ When I'm not coding, you can find me exploring new tech, learning something fres
 ---  
 
 <h1> 💻 Tech Stack: </h1>
- <h2>Operatin Systems: </h2>
+ <h2>Operating Systems: </h2>
   <p>
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
    <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
