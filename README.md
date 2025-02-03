@@ -89,7 +89,7 @@ I'm currently diving deeper into advanced **TypeScript**, exploring **serverless
 
 ### 📫 Where to Find Me:  
 - **GitHub**: [Alirezarezairad](https://github.com/Alirezarezairad)  
-- **LinkedIn**: [Alireza Rezairad](www.linkedin.com/in/alireza-rezairad-8aaa80327) 
+- **LinkedIn**: [Alireza Rezairad](https://www.linkedin.com/in/alireza-rezairad-8aaa80327) 
 
 ---
 
